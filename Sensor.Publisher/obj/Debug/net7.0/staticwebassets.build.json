@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x2H3c9F+iyHJWFU6HU5oPQeraGWSrnKDoLeU8azm1Ks=",
+  "Source": "Sensor.Publisher",
+  "BasePath": "_content/Sensor.Publisher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
