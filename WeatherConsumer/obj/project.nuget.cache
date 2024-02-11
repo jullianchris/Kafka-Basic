@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEy9B5V275ZPVWlsX657TLZ2Ypb2nUOfUrpWW0twAgz3fFvDIgZxAn2OQJ/k/ywef3wzkEJbIPRKAuomdbgQxA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Public Projects\\KafkaBasics\\WeatherConsumer\\WeatherConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jullian Christopher\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\Jullian Christopher\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\Jullian Christopher\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Jullian Christopher\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
